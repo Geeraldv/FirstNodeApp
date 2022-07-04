@@ -1,0 +1,15 @@
+{
+  "name": "first-app-node",
+  "version": "1.0.0",
+  "description": "example node js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Geraldo Ventura",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
